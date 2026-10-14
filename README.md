@@ -12,4 +12,4 @@ An intelligent, persistent RAG application designed to assist farmers and agricu
 
 1. **Clone or download the repository and navigate into the folder:**
    ```bash
-   cd agriculture-subsidy-rag
+   cd AgricultureSubsidySchemeRAGAppln
